@@ -1,0 +1,4 @@
+classify.configuration:
+  route_name: classify.configuration
+  title: 'Classify'
+  base_route: system.themes_page
