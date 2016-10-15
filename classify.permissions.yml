@@ -1,0 +1,4 @@
+administer classify:
+  title: 'Administer Classify'
+use classify:
+  title: 'Use Classify'

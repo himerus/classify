@@ -1,0 +1,7 @@
+# Schema for the configuration files of the Classify module.
+classify.settings:
+  type: mapping
+  mapping: { }
+
+classify.settings.*:
+  type: classify.settings

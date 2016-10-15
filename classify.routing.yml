@@ -1,0 +1,7 @@
+classify.configuration:
+  path: '/admin/appearance/classify'
+  defaults:
+    _form: 'Drupal\classify\Form\ClassifySettings'
+    _title: 'Classify Settings'
+  requirements:
+    _permission: 'administer classify'

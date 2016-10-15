@@ -1,0 +1,6 @@
+classify.admin:
+  title: 'Classify'
+  description: 'Configuration for the Classify module.'
+  parent: system.themes_page
+  route_name: classify.configuration
+  weight: 100
