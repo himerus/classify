@@ -1,0 +1,8 @@
+name: Classify
+core: 8.x
+description: Provides support for classes and attributes on entities.
+package: Theme Enhancements
+version: VERSION
+type: module
+dependencies:
+  - text

@@ -1,0 +1,19 @@
+{
+  "name": "drupal/classify",
+  "description": "Classify",
+  "type": "drupal-module",
+  "homepage": "http://drupal.org/project/classify-0",
+  "authors": [
+    {
+      "name": "Jake Strawn",
+      "role": "Maintainer",
+      "homepage": "https://github.com/himerus"
+    }
+  ],
+  "support": {
+    "issues": "https://drupal.org/project/issues/classify",
+    "source": "https://www.drupal.org/project/classify-0"
+  },
+  "license": "GPL-2.0+",
+  "require": { }
+}
